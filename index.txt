@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://script.google.com/macros/s/AKfycbzmDlUGwEIJZ6DfFdPoqXMmxa_yWkLIAQserqmqu87umvHEmozeVchs_u-zUvsICkKiLQ/exec'">
+  </head>
+  <body>
+    <p>Mengarahkan...</p>
+  </body>
+</html>
